@@ -1,0 +1,11 @@
+
+Find below the commands to be run to execute the jar files:
+
+Question 1 : hadoop jar yelp1.jar yelpq1 /business.csv /output1.1
+Question 2 : hadoop jar yelp2.jar yelpq2 /review.csv /outpuut2.1
+Question 3 : hadoop jar yelp3.jar yelpq2 /review.csv /outpuut3.2 /business.csv /outpuut3.3
+Question 4 : hadoop jar yelp4.jar yelp4 /review.csv /business.csv /output4.1
+
+
+
+
