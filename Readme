@@ -1,3 +1,22 @@
+Simple Map-Reduce Jobs to perform analysis on the Yelp dataset, such as:
+
+1. List the unique categories of business located in “Palo Alto”.
+
+2. Find the top ten rated businesses using the average ratings. Top
+rated business will come first. Recall that 4th column in review.csv
+file represents the rating.
+
+3. List the  business_id , full address and categories of the Top 10
+businesses using the average ratings. (Reduce side join and job chaining technique)
+
+4. List the 'user id' and 'rating' of users that reviewed businesses
+located in Stanford (In Memory Join technique)
+
+
+
+
+
+
 
 Find below the commands to be run to execute the jar files:
 
